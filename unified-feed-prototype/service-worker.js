@@ -1,4 +1,4 @@
-const CACHE = 'veil-x-reddit-v1';
+const CACHE = 'veil-x-reddit-v2';
 const APP_SHELL = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', event => {

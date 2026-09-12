@@ -9,7 +9,7 @@ The cards are sample data. The next native implementation would use separate `WK
 Open `index.html` in a browser to try it.
 # Veil X + Reddit prototype
 
-This is a mobile-first browser prototype for the X + Reddit version of Veil. It includes large photo/video cards, muted autoplay, source filters, saved/following views, and local cover controls.
+This is a mobile-first browser prototype for the X + Reddit version of Veil. It includes large photo/video cards, muted autoplay, source filters, saved/following views, and local cover controls. The gear button opens a separate Settings page with Protection and Censored objects tabs, per-category switches for breasts, female genitalia, and female buttocks, and a detection-confidence control.
 
 The folder is also PWA-ready. Serve it over HTTPS (or from `localhost` during development), open it in Safari on the iPhone, and use **Share → Add to Home Screen**. The service worker only caches the app shell; it does not collect credentials or upload media.
 
